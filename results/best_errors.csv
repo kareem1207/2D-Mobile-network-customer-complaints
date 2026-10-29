@@ -1,0 +1,72 @@
+id,text,label,pred_label,category,spelling_noise,phrase_pool
+137,"Namaskaram sir. Weekend lo ooru velli vachanu, appati nundi gamaninchanu. Naa phone Android 12, anni updates install chesanu. Nenu last 3 years nundi mee SIM vadutunna. Maa nanna garu kuda ee number use chestaru. Maa area lo konni rojula nundi construction jarugutondi. nijam gaa network busy messaeg ee madhya raaledhu sir.",positive,negative,long_buried,1,unseen
+164,nijam ga ee madhya network quality chaala padipoindi.,negative,positive,plain,1,unseen
+207,mana area lo coverage okay ga ledu. Dhanyavadalu.,negative,positive,negation,0,unseen
+212,"honestly ticket close chesesaru, problem alage vundhi.",negative,positive,plain,1,unseen
+278,"Dear sir/madam, naa feedback share cheyyalani anukuntunna. Nenu last 3 years nundi mee SIM vadutunna. Maa intlo andaru same network vadataru. Nenu online class teacher ni, daily 4 hours phone vadatanu. actually network busy message ee madhya raaledu. Meeru chusi cheppandi.",positive,negative,long_buried,0,unseen
+309,"Hi team, kontha time teesukoni ee review rastunna. Monna Tuesday evening 7 pm time lo ee vishayam gamaninchanu. Nenu Hyderabad lo Gandipet daggara untanu. Weekend lo ooru velli vachanu, appati nundi gamannichanu. Prepaid plan 299 vadutunna every month. Maa friends ki kuda ide vishayam cheppanu. Maa nanna garu kuda ee number use chestaru. ippudu eppudu choosina service unstable ga untundi anna. Dhanyavadalu.",negative,positive,long_buried,1,unseen
+341,Hello customer care team. Hello customer care team. daily network busy message ee madhya raaledu. Pls do the needful.,positive,negative,polite_opening,0,unseen
+349,nijam ga recharg sulabham ga ledhu anna. Regards.,negative,positive,negation,1,unseen
+353,ippudu coverage okay ga ledu sir.,negative,positive,negation,0,unseen
+356,"Good evening, naa mobile number tho oka vishayam undhi. good evening, naa mobile number tho oka vishayam undhi. first of all mee team ki thanks, chaala respect undi. eppudu use chesina service stable ga vundi.",positive,negative,polite_opening,1,unseen
+394,actually recharge fail avvadam ledu yaar.,positive,negative,negation,0,unseen
+414,browsing spead really impressive ga undi andi.,positive,mixed,plain,1,unseen
+429,eppudu choosina service unstable ga untundi.,negative,positive,plain,0,unseen
+489,"Dear sir/madam, naa feedback share cheyyalani anukuntunna. browsing speed really impressive ga undi yaar.",positive,negative,polite_opening,0,unseen
+502,eppudu choosina service unstable ga untundi andi.,negative,positive,plain,0,unseen
+541,Ee madhya recharge fail avvadam ledu yaar. dhanyavadalu.,positive,negative,negation,0,unseen
+591,"Hi team, kontha time teesukoni ee review rastunna. Nenu Hyderabad lo Gandipet daggara untanu. Naa phone Android 12, anni updates install chesanu. Weekend lo ooru velli vachanu, appati nundi gamaninchanu. Nenu online class teacher ni, daily 4 hours phone vadatanu. Maa intlo andaru same network vadataru. long calls kuda disconnect avvaledu sir, ayite honestly new tower ani cheppi ippatiki activate cheyyaledu anna.",mixed,negative,long_buried,0,unseen
+685,Honestly online class lo net aagipotundi sir.,negative,positive,plain,0,unseen
+701,Namaskaram sir. monna nundi online class lo net aagipotundi. Dhanyavadalu.,negative,positive,polite_opening,0,unseen
+747,"Good evening, naa mobile number tho oka vishayam undi. Naa phone Android 12, anni updates install chesanu. Maa area lo konni rojula nundi construction jarugutondi. Ee review rayadaniki naku time dorikindi ippude. Weekend lo ooru velli vachanu, appati nundi gamaninchanu. ee madhya chat support lo bot loop lone untundi really. Please look into this.",negative,positive,long_buried,0,unseen
+762,"Dear sir/madam, mee brand ante naku chalaa ishtam. Hi team, kontha time teeuskoni ee review rastunna. honestly hills daggara kuda full bars vachayi. Meeru chusi cheppandi.",positive,negative,polite_opening,1,unseen
+794,"Hi team, kontha time teesukoni ee review rastunna. daily range vishayam lo mee servcie number one. Pls do the needful.",positive,negative,polite_opening,1,unseen
+825,Hello customer care team. maa area lo konni rojula nundi construction jarugutondi. nenu hyderabad lo gandipet daggara untanu. maa friends ki kuda ide vishayam cheppanu. ee review rayadaniki naku time dorikindi ippude. daily technician time ki vachi sort chesaru really.,positive,negative,long_buried,0,unseen
+836,customer care help chesinattu ledu andi. Meeru chusi cheppandi.,negative,positive,negation,0,seen
+866,ee madhya eppudu use chesina service stbale gaa undi really.,positive,negative,plain,1,unseen
+909,"Dear sir/madam, mee brand ante naku chala ishtam. Hello team, meeru manchi work chestunnaru ani telusu. technician time ki vachi sort chesaru anna. Dhanyavadalu.",positive,negative,polite_opening,0,unseen
+921,"Hi team, kontha time teesukoni ee review rastunna. daily hills daggara kuda full bars vachayi andi. pls do the needful.",positive,negative,polite_opening,1,unseen
+931,"Super network sir, thanks a lot, actually eppudu choosina service unstable ga untundi sir.",negative,positive,sarcasm,0,unseen
+951,ee madhya recharge sulabham ga ledu yaar. Dhanyavadalu.,negative,positive,negation,0,unseen
+1050,online class lo net aagipotundi.,negative,positive,plain,1,unseen
+1083,Coverage okay ga ledu andi. please look into this.,negative,positive,negation,0,unseen
+1138,recharge sulabham ga ledu really. Meeru chusi cheppandi.,negative,positive,negation,0,unseen
+1139,daily coverage okay ga ledu sir.,negative,positive,negation,0,unseen
+1222,honestly recharg fail avvadam ledu anna.,positive,negative,negation,1,unseen
+1249,"Sir, meeku oka vishayam cheppali. Dear sir/madam, mee brand ante naku chala ishtam. actually eppudu choosina service unstable ga untundi.",negative,positive,polite_opening,0,unseen
+1265,"First of all mee team ki thanks, chala respect undhi. Namaskaram sir. online class lo net apudu aagaledu yaar. Please look into this.",positive,negative,polite_opening,1,unseen
+1281,daily chat support lo bot loop lone untundi really.,negative,positive,plain,1,unseen
+1312,IPPUDU DATA PACK APPLY AVVAKUNDA BALANCE AYIPOINDI SIR.,negative,positive,plain,1,unseen
+1317,honestly long calls kuda disconnect avvaledu anna.,positive,negative,plain,0,unseen
+1372,ee madhya data pack apply avvakunda balance ayipoindi anna.,negative,positive,plain,1,unseen
+1381,ippudu recharge sulabham ga ledu.,negative,positive,negation,0,unseen
+1402,Mana area lo coverage okay gaa leduu anna. thank you.,negative,positive,negation,1,unseen
+1428,honestly eppudu use chesina service stable ga undi anna.,positive,negative,plain,1,unseen
+1457,"Namaskaram sir. Weekend lo ooru velli vachanu, appati nundi gamaninchanu. Maa area lo konni rojula nundi construction jarugutondi. Naa phone Android 12, anni updates install chesanu. network busy message ee madhya raledu.",positive,negative,long_buried,1,unseen
+1499,"Hello customer care team. Hi support team, mee seva ki dhanyavadalu. ee madhya eppudu use chesina service stabel ga undi really. Dhanyavadalu.",positive,negative,polite_opening,1,unseen
+1589,"Hello customer care team. Maa intlo andaru same network vadataru. Nenu online class teacher ni, daily 4 hours phone vadatanu. Ee review rayadaniki naku time dorikindi ippude. Maa friends ki kuda ide vishayam cheppanu. range vishayam lo mee service number one andi. Meeru chusi cheppandi.",positive,negative,long_buried,0,unseen
+1638,"Namaskaram sir. Maa intlo andaru same network vadataru. Ee review rayadaniki naku time dorikindi ippude. Maa friends ki kuda ide vishayam cheppanu. Naa phone Android 12, anni updates install chesanu. Nenu Hyderabad lo Gandipet daggara untanu. Nenu online class teacher ni, daily 4 hours phone vadatanu. actually network busy message ee madhya raaledu yaar. Meeru chusi cheppandi.",positive,negative,long_buried,0,unseen
+1663,ee madhya call connect avvadaniki time pattaledu yaar.,positive,negative,plain,1,unseen
+1677,"Good morning sir, mee service gurinchi manchiga vinnanu. nijam ga range vishayam lo mee service number one.",positive,negative,polite_opening,0,unseen
+1701,hills daggara kuda full bars vachayi really.,positive,negative,plain,0,unseen
+1843,"Namaskaram sir. Good morning sir, mee service gurinchi manchiga vinnanu. Namaskaram sir. ippudu online class lo net aagipotundi. Regards.",negative,positive,polite_opening,0,unseen
+1921,daily coverage okay ga ledu sir. Regards.,negative,positive,negation,0,unseen
+2041,"ticket close chesesaru, problem alage undhi.",negative,positive,plain,1,unseen
+2067,"Good evening, naa mobile number tho oka vishayam undi. Hello customer care team. actually data pack apply avvakunda balance ayipoindi.",negative,positive,polite_opening,1,unseen
+2225,ee madhya recharge fail avvadam ledu really. Please look into this.,positive,negative,negation,0,unseen
+2248,Monna nundi call quality bagumdi ani cheppalem.,negative,positive,negation,1,seen
+2276,Recharge sulabham ga ledu yaar.,negative,positive,negation,1,unseen
+2295,"daily ticket close chesesaru, problem alage undi really.",negative,positive,plain,0,unseen
+2391,"Namaskaram sir, mee company ni nenu 5 years nundi nammutunna. Namaskaram sir. monna nundi video call lo voice break avvatledu sir. Dhanyavadalu.",positive,negative,polite_opening,0,seen
+2446,"First of all mee team ki thanks, chalaa respect vundhi. namaskaram sir, mee company ni nenu 5 years nundi nammutunna. monna nundi chat support lo bot loop lone untundi. regards.",negative,positive,polite_opening,1,unseen
+2450,actually browsing speed really impressive ga undi anna.,positive,negative,plain,0,unseen
+2479,mana area lo call drop avthune undi yaar.,negative,positive,plain,1,seen
+2489,chat support lo bot loop lone untundi andi.,negative,positive,plain,1,unseen
+2525,"Hi team, kontha time teesukoni ee review rastunna. Weekend lo ooru velli vachanu, appati nundi gamaninchanu. Prepaid plan 299 vadutunna every month. Monna Tuesday evening 7 pm time lo ee vishayam gamaninchanu. net speed chala slow ga undi andi. Meeru chusi cheppandi.",negative,positive,long_buried,0,seen
+2567,"Dear sir/madam, naa feedback share cheyyalani anukuntunna. nenu work from home chestanu, anduke ee vishayam important. maa nanna garu kuda ee number use chestaru. nenu hyderabad lo gandipet daggara untanu. maa intlo andaru same network vadataru. ee review rayadaniki naku time dorikindi ippude. technician time ki vachi sort chesaru. thank you.",positive,negative,long_buried,0,unseen
+2707,ippudu support team respond avvatledu really.,negative,positive,plain,1,seen
+2724,"Great job team, chala baga chesharu, honestly technician vastanu ani raledu.",negative,positive,sarcasm,1,unseen
+2819,"Great job team, chala baga chesaru, call quality bagaledu andi. Regards.",negative,positive,sarcasm,0,unseen
+2850,"Good evening, naa mobile number tho oka vishayam undi. Weekend lo ooru velli vachanu, appati nundi gamaninchanu. Nenu work from home chestanu, anduke ee vishayam important. Maa friends ki kuda ide vishayam cheppanu. Prepaid plan 299 vadutunna every month. Phone restart chesanu, SIM marchi chusanu. nijam ga data pack apply avvakunda balance ayipoindi sir. Thank you.",negative,positive,long_buried,0,unseen
+2964,"GOOD EVENING, NAA MOBILE NUMBER THO OKA VISHAYAM UNDI. PHONE RESTART CHESANU, SIM MARCHI CHUSANU. NENU ONLINE CLASS TEACHER NI, DAILY 4 HOURS PHONE VADATANU. PREPAID PLAN 299 VADUTUNNA EVERY MONTH. MAA NANNA GARU KUDA EE NUMBER USE CHESTARU. MAA INTLO ANDARU SAME NETWORK VADATARU. MONNA NUNDI EE NETWORK THO E PRBLM LEDU, COVERAGE GREAT. THANK YOU.",positive,negative,long_buried,1,unseen
+2976,monna nundi long calls kuda disconnect avvaledu really.,positive,negative,plain,0,unseen

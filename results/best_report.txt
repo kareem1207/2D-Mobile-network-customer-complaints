@@ -1,0 +1,11 @@
+best config (by mean validation macro-F1): ('SimpleRNN', 'scratch'), seed 1
+
+              precision    recall  f1-score   support
+
+    negative      0.782     0.740     0.760       150
+    positive      0.753     0.793     0.773       150
+       mixed      0.993     0.993     0.993       150
+
+    accuracy                          0.842       450
+   macro avg      0.843     0.842     0.842       450
+weighted avg      0.843     0.842     0.842       450

@@ -1,0 +1,7 @@
+category,n,acc
+long_buried,100,0.87
+mixed_distant,52,1.0
+negation,50,0.66
+plain,131,0.8320610687022901
+polite_opening,98,0.8367346938775511
+sarcasm,19,0.8421052631578947

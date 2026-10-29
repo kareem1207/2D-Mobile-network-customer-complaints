@@ -1,0 +1,17 @@
+{
+  "best": [
+    "SimpleRNN",
+    "scratch"
+  ],
+  "seed": 1,
+  "maxlen": 64,
+  "test_macro_f1": 0.8421115262211152,
+  "f1_per_class": {
+    "negative": 0.7602739726027398,
+    "positive": 0.7727272727272727,
+    "mixed": 0.9933333333333333
+  },
+  "cohen_kappa_model_vs_gold": 0.7633333333333333,
+  "sec_per_10k_reviews": 0.5504794099999799,
+  "params": 56323
+}

@@ -1,0 +1,11 @@
+{
+  "SimpleRNN": {
+    "imdb_test_acc": 0.6150000095367432
+  },
+  "LSTM": {
+    "imdb_test_acc": 0.8398799896240234
+  },
+  "GRU": {
+    "imdb_test_acc": 0.8592399954795837
+  }
+}
